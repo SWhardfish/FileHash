@@ -18,7 +18,7 @@ This file **'testfile2.txt'** has an additional character and provides a differe
 MD5: 0a9dd12bb7ae9d74c7bd8b9accbd94e8  
 SHA256: 55bdc5a18b252b4162128e9beda5e1b8dbb62f877be101415100e353ad1fb7f2
 
-# testfile3.docx
+## testfile3.docx
 This file **'testfile3.docx'** has the same text as **'testfile.txt'** and **'testfile1.txt'** but is an MS Word document and again provides a different hash value.
 
 MD5: ccfeb03c331861ec6e53f59e5307fb7a
